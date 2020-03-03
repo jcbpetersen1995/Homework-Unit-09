@@ -26,3 +26,7 @@
 <img src="[object Promise]" alt="Profile Picture">
 
 [![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+<hr>
+![GIF](readme1.gif)
+<br>
+![GIF](readme2.gif)
